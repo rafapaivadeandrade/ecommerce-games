@@ -1,10 +1,10 @@
-import "./assets/styles/global.css";
+import "./styles/global.css";
 
 function App()
 {
   return (
     <div>
-
+      <p>asas</p>
     </div>
   );
 }
